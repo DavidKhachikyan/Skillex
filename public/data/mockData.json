@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "brand": "Brand A",
+    "price": 99.99,
+    "rating": 4.5,
+    "imageUrl": "https://www.sbsmobile.com/ned/247224-thickbox_default/floxy-headphones.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "brand": "Brand B",
+    "price": 49.99,
+    "rating": 4.0,
+    "imageUrl": "https://m.media-amazon.com/images/I/81XN15CDupL.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "brand": "Brand C",
+    "price": 59.99,
+    "rating": 4.2,
+    "imageUrl": "https://www.jiomart.com/images/product/original/rvrgwpjvsp/bruton-trendy-sports-shoes-for-men-blue-product-images-rvrgwpjvsp-0-202209021256.jpg?im=Resize=(1000,1000)"
+  },
+  {
+    "id": 4,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "brand": "Brand D",
+    "price": 499.99,
+    "rating": 4.8,
+    "imageUrl": "https://m.media-amazon.com/images/I/71s72QE+voL.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "Brand E",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://cdni.llbean.net/is/image/wim/520163_699_41?hei=1095&wid=950&resMode=sharp2&defaultImage=llbprod/520163_699_41"
+  }
+]
